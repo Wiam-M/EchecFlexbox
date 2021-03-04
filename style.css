@@ -1,0 +1,14 @@
+
+.echec{
+    width: 100%;
+    height: 200px;
+    display:flex;
+    flex-wrap: wrap-reverse;
+    border: 1px solid blue;
+    flex-direction: column;
+    justify-content: space-evenly; 
+    }
+.piece{
+    flex-basis:20%;
+    border: 1px solid blue;
+    }
